@@ -199,6 +199,13 @@ Very simple or ambiguous shapes that could represent multiple fruits.
 | Simple crescent shape | Banana | 46.0% | Appropriate uncertainty for minimal detail |
 | Round shape with internal circles | Grapes | 100.0% | Model weighted internal pattern heavily |
 
+<img width="587" height="584" alt="Screenshot 2025-12-11 at 8 51 11 PM" src="https://github.com/user-attachments/assets/8fce0b8f-afd9-42f2-b8f2-9abe29de0069" />
+
+<img width="587" height="584" alt="Screenshot 2025-12-11 at 8 50 19 PM" src="https://github.com/user-attachments/assets/f91dc917-59ec-4c7a-9357-9c2e29b41548" />
+
+<img width="587" height="584" alt="Screenshot 2025-12-11 at 8 49 35 PM" src="https://github.com/user-attachments/assets/683bf481-8d1c-4604-8f48-eeecde4a8fcc" />
+
+
 ### Model Insights
 
 **What the Model Learned:**
@@ -278,6 +285,8 @@ Only 5 fruit classes are supported. Real-world applications would require dozens
 The model provides predictions and confidence scores but doesn't show which parts of the sketch influenced its decision.
 
 **Impact:** Users cannot understand why predictions are made, limiting trust and debugging capabilities.
+
+<img width="438" height="543" alt="Screenshot 2025-12-11 at 1 44 53 AM" src="https://github.com/user-attachments/assets/d4ab13e5-a8cc-41ed-87fd-3841cd27c3a2" />
 
 ---
 
