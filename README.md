@@ -412,7 +412,6 @@ fruit-sketch-recognizer/
 
 **Development Environment:**
 - Python 3.8+
-- Jupyter Notebook (for experimentation)
 
 
 ---
