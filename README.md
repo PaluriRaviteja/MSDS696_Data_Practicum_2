@@ -388,7 +388,7 @@ fruit-sketch-recognizer/
 │   ├── grapes/
 │   ├── pineapple/
 │   └── strawberry/
-└── README.md                   # This file
+└── README.md                  
 ```
 
 ---
@@ -414,34 +414,5 @@ fruit-sketch-recognizer/
 - Python 3.8+
 - Jupyter Notebook (for experimentation)
 
----
-
-## Acknowledgments
-
-**Course:** MSDS692 – Data Science Practicum  
-**Institution:** Regis University  
-**Instructor:** Christy Pearson
-
-Special thanks to the QuickDraw dataset project by Google Creative Lab for inspiration on simple sketch collection methodologies.
 
 ---
-
-## License
-
-This project is available under the MIT License for educational and research purposes.
-
----
-
-## Contact
-
-**Raviteja Paluri**  
-Data Science Graduate Student, Regis University
-
-For questions about this project or collaboration opportunities, please reach out via GitHub issues or email.
-
----
-
-**Project Status:** Completed (December 2025)  
-**Final Validation Accuracy:** 94%  
-**Training Time:** ~10 minutes on CPU  
-**Inference Time:** <100ms per image
